@@ -1,0 +1,10 @@
+* inferior-shell
+
+This CL library allows you to spawn local or remote processes and
+shell pipes.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/fare/inferior-shell.git |
+| commit  | 15c2d04                                        |
+| systems | inferior-shell                                 |
+|---------+------------------------------------------------|
