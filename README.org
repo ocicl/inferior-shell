@@ -5,6 +5,6 @@ shell pipes.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/fare/inferior-shell.git |
-| commit  | ae7c7db                                        |
+| commit  | b40cc92                                        |
 | systems | inferior-shell                                 |
 |---------+------------------------------------------------|
