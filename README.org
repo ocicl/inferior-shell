@@ -8,4 +8,4 @@ shell pipes.
 | commit  | 1edd2e4                                        |
 | systems | inferior-shell                                 |
 |---------+------------------------------------------------|
- 
+  
